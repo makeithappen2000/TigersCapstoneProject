@@ -1,0 +1,905 @@
+2022-07-11 15:27:49,260 [main] INFO Logger_File - The Scenario Login to test Envrionment with one User, has been started!
+2022-07-11 15:27:59,831 [main] INFO Logger_File - Text Test Environment was verified
+2022-07-11 15:27:59,931 [main] INFO Logger_File - My Account button was clicked successfully
+2022-07-11 15:28:00,447 [main] INFO Logger_File - Login link was clicked successfully
+2022-07-11 15:28:00,736 [main] INFO Logger_File - Email and password were entered successfully
+2022-07-11 15:28:01,751 [main] INFO Logger_File - Login button was clicked successfully
+2022-07-11 15:28:01,795 [main] INFO Logger_File - My Account text was verified successfully
+2022-07-11 15:30:09,299 [main] INFO Logger_File - The Scenario Login to test Envrionment with one User, has been started!
+2022-07-11 15:30:16,255 [main] INFO Logger_File - Text Test Environment was verified
+2022-07-11 15:30:16,528 [main] INFO Logger_File - My Account button was clicked successfully
+2022-07-11 15:30:17,135 [main] INFO Logger_File - Login link was clicked successfully
+2022-07-11 15:30:17,759 [main] INFO Logger_File - Email and password were entered successfully
+2022-07-11 15:30:18,566 [main] INFO Logger_File - Login button was clicked successfully
+2022-07-11 15:30:18,637 [main] INFO Logger_File - My Account text was verified successfully
+2022-07-11 15:31:50,063 [main] INFO Logger_File - The Scenario Login to test Envrionment with one User, has been started!
+2022-07-11 15:31:55,690 [main] INFO Logger_File - Text Test Environment was verified
+2022-07-11 15:31:55,768 [main] INFO Logger_File - My Account button was clicked successfully
+2022-07-11 15:31:56,400 [main] INFO Logger_File - Login link was clicked successfully
+2022-07-11 15:31:56,813 [main] INFO Logger_File - Email and password were entered successfully
+2022-07-11 15:31:57,397 [main] INFO Logger_File - Login button was clicked successfully
+2022-07-11 15:31:57,445 [main] INFO Logger_File - My Account text was verified successfully
+2022-07-11 15:32:00,566 [main] INFO Logger_File - The Scneario Login to test Envrionment with one User has PASSED
+2022-07-12 14:11:19,068 [main] INFO Logger_File - The Scenario User verify all items are present in Desktops tab, has been started!
+2022-07-12 14:11:32,615 [main] INFO Logger_File - The Scneario User verify all items are present in Desktops tab has UNDEFINED
+2022-07-12 14:11:32,653 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-12 14:11:47,474 [main] INFO Logger_File - The Scneario User add HP LP 3065  from Desktops tab to the cart has UNDEFINED
+2022-07-12 14:11:47,488 [main] INFO Logger_File - The Scenario User add Canon EOS 5D from Desktops tab to the cart, has been started!
+2022-07-12 14:11:51,101 [main] INFO Logger_File - The Scneario User add Canon EOS 5D from Desktops tab to the cart has UNDEFINED
+2022-07-12 14:11:51,119 [main] INFO Logger_File - The Scenario User add a review to Canon EOS 5D item in Desktops tab, has been started!
+2022-07-12 14:11:54,765 [main] INFO Logger_File - The Scneario User add a review to Canon EOS 5D item in Desktops tab has UNDEFINED
+2022-07-12 14:28:24,630 [main] INFO Logger_File - The Scenario User verify all items are present in Desktops tab, has been started!
+2022-07-12 14:28:28,362 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 14:28:28,431 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 14:28:29,094 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 14:28:29,166 [main] INFO Logger_File - All items are present in DeskTop page!
+2022-07-12 14:28:29,501 [main] INFO Logger_File - The Scneario User verify all items are present in Desktops tab has PASSED
+2022-07-12 14:28:29,544 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-12 14:28:32,893 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 14:28:32,997 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 14:28:33,692 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 14:28:33,772 [main] INFO Logger_File - ADD TO CART option for HP LP3065 was clicked successfully!
+2022-07-12 14:28:35,496 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-12 14:28:35,716 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-12 14:28:35,911 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-12 14:28:36,260 [main] INFO Logger_File - The Scneario User add HP LP 3065  from Desktops tab to the cart has PASSED
+2022-07-12 14:28:36,328 [main] INFO Logger_File - The Scenario User add Canon EOS 5D from Desktops tab to the cart, has been started!
+2022-07-12 14:28:39,612 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 14:28:39,737 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 14:28:40,386 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 14:28:40,813 [main] INFO Logger_File - The Scneario User add Canon EOS 5D from Desktops tab to the cart has UNDEFINED
+2022-07-12 14:28:40,842 [main] INFO Logger_File - The Scenario User add a review to Canon EOS 5D item in Desktops tab, has been started!
+2022-07-12 14:28:44,603 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 14:28:44,689 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 14:28:45,528 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 14:28:45,847 [main] INFO Logger_File - The Scneario User add a review to Canon EOS 5D item in Desktops tab has UNDEFINED
+2022-07-12 16:31:05,379 [main] INFO Logger_File - The Scenario User verify all items are present in Desktops tab, has been started!
+2022-07-12 16:31:13,643 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 16:31:13,771 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 16:31:14,591 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 16:31:14,685 [main] INFO Logger_File - All items are present in DeskTop page!
+2022-07-12 16:31:15,152 [main] INFO Logger_File - The Scneario User verify all items are present in Desktops tab has PASSED
+2022-07-12 16:33:54,958 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-12 16:33:59,933 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 16:34:00,013 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 16:34:00,727 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 16:34:00,833 [main] INFO Logger_File - ADD TO CART option for HP LP3065 was clicked successfully!
+2022-07-12 16:34:02,988 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-12 16:34:03,153 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-12 16:34:03,362 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-12 16:34:07,785 [main] INFO Logger_File - The Scneario User add HP LP 3065  from Desktops tab to the cart has PASSED
+2022-07-12 16:36:01,441 [main] INFO Logger_File - The Scenario User add Canon EOS 5D from Desktops tab to the cart, has been started!
+2022-07-12 16:36:05,307 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 16:36:05,407 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 16:36:06,094 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 16:36:06,206 [main] INFO Logger_File - Add TO CART optoin for Canon EOS 5D was clicked successfully!
+2022-07-12 16:36:07,653 [main] INFO Logger_File - Red color was clicked from the dropdown!
+2022-07-12 16:36:07,933 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-12 16:36:08,105 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-12 16:36:08,288 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-12 16:36:12,627 [main] INFO Logger_File - The Scneario User add Canon EOS 5D from Desktops tab to the cart has PASSED
+2022-07-12 16:38:16,110 [main] INFO Logger_File - The Scenario User add a review to Canon EOS 5D item in Desktops tab, has been started!
+2022-07-12 16:38:20,097 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 16:38:20,220 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 16:38:21,046 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 16:38:22,518 [main] INFO Logger_File - Canon EOS 5D item was clicked successfully!
+2022-07-12 16:38:22,627 [main] INFO Logger_File - Write a review link was clicked successfully!
+2022-07-12 16:38:23,298 [main] INFO Logger_File - Required information for writing a review was completed successfully!
+2022-07-12 16:38:23,673 [main] INFO Logger_File - Continue button was clicked successfully!
+2022-07-12 16:38:23,865 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-12 16:38:28,227 [main] INFO Logger_File - The Scneario User add a review to Canon EOS 5D item in Desktops tab has PASSED
+2022-07-12 16:47:03,665 [main] INFO Logger_File - The Scenario User verify all items are present in Desktops tab, has been started!
+2022-07-12 16:47:07,718 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 16:57:57,737 [main] INFO Logger_File - The Scenario User verify all items are present in Desktops tab, has been started!
+2022-07-12 16:58:02,012 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 16:58:02,130 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 16:58:02,817 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 16:58:02,891 [main] INFO Logger_File - All items are present in DeskTop page!
+2022-07-12 16:58:05,561 [main] INFO Logger_File - The Scneario User verify all items are present in Desktops tab has PASSED
+2022-07-12 17:03:29,652 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-12 17:03:34,590 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 17:03:35,739 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 17:03:37,898 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 17:03:39,001 [main] INFO Logger_File - ADD TO CART option for HP LP3065 was clicked successfully!
+2022-07-12 17:03:41,827 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-12 17:03:42,950 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-12 17:03:43,139 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-12 17:03:49,757 [main] INFO Logger_File - The Scneario User add HP LP 3065  from Desktops tab to the cart has PASSED
+2022-07-12 17:04:36,001 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-12 17:04:41,101 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 17:04:42,198 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 17:04:44,121 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 17:04:45,234 [main] INFO Logger_File - ADD TO CART option for HP LP3065 was clicked successfully!
+2022-07-12 17:04:49,453 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-12 17:04:50,620 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-12 17:04:50,810 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-12 17:04:57,386 [main] INFO Logger_File - The Scneario User add HP LP 3065  from Desktops tab to the cart has PASSED
+2022-07-12 17:05:30,941 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-12 17:05:35,635 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 17:05:36,734 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 17:05:38,736 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 17:05:39,832 [main] INFO Logger_File - ADD TO CART option for HP LP3065 was clicked successfully!
+2022-07-12 17:05:42,284 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-12 17:05:43,443 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-12 17:05:43,634 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-12 17:05:50,205 [main] INFO Logger_File - The Scneario User add HP LP 3065  from Desktops tab to the cart has PASSED
+2022-07-12 17:06:03,160 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-12 17:06:07,938 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 17:06:09,055 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 17:06:11,075 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 17:06:12,182 [main] INFO Logger_File - ADD TO CART option for HP LP3065 was clicked successfully!
+2022-07-12 17:06:14,661 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-12 17:06:15,800 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-12 17:06:15,991 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-12 17:06:22,533 [main] INFO Logger_File - The Scneario User add HP LP 3065  from Desktops tab to the cart has PASSED
+2022-07-12 17:07:25,574 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-12 17:07:30,270 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 17:07:31,390 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 17:07:33,529 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 17:07:34,634 [main] INFO Logger_File - ADD TO CART option for HP LP3065 was clicked successfully!
+2022-07-12 17:07:37,159 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-12 17:07:38,312 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-12 17:07:38,566 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-12 17:07:45,185 [main] INFO Logger_File - The Scneario User add HP LP 3065  from Desktops tab to the cart has PASSED
+2022-07-12 17:08:19,340 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-12 17:08:24,386 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 17:08:25,485 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 17:08:59,173 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-12 17:09:04,250 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 17:09:05,349 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 17:09:07,089 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 17:09:08,202 [main] INFO Logger_File - ADD TO CART option for HP LP3065 was clicked successfully!
+2022-07-12 17:09:10,773 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-12 17:09:11,886 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-12 17:09:12,138 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-12 17:09:18,664 [main] INFO Logger_File - The Scneario User add HP LP 3065  from Desktops tab to the cart has PASSED
+2022-07-12 17:09:58,903 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-12 17:10:03,914 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 17:10:05,077 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 17:10:06,992 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 17:10:08,092 [main] INFO Logger_File - ADD TO CART option for HP LP3065 was clicked successfully!
+2022-07-12 17:10:10,493 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-12 17:10:11,653 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-12 17:10:11,843 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-12 17:10:14,610 [main] INFO Logger_File - The Scneario User add HP LP 3065  from Desktops tab to the cart has PASSED
+2022-07-12 17:10:41,621 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-12 17:10:46,493 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 17:10:47,588 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 17:10:49,367 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 17:10:50,486 [main] INFO Logger_File - ADD TO CART option for HP LP3065 was clicked successfully!
+2022-07-12 17:10:53,167 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-12 17:10:54,270 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-12 17:10:54,528 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-12 17:10:57,108 [main] INFO Logger_File - The Scneario User add HP LP 3065  from Desktops tab to the cart has PASSED
+2022-07-12 17:11:44,586 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-12 17:11:49,626 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 17:11:50,737 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 17:11:52,466 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 17:11:53,582 [main] INFO Logger_File - ADD TO CART option for HP LP3065 was clicked successfully!
+2022-07-12 17:11:56,323 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-12 17:11:57,543 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-12 17:11:57,727 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-12 17:12:04,433 [main] INFO Logger_File - The Scneario User add HP LP 3065  from Desktops tab to the cart has PASSED
+2022-07-12 17:16:05,620 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-12 17:16:11,722 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 17:16:12,864 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 17:16:15,028 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 17:16:16,117 [main] INFO Logger_File - ADD TO CART option for HP LP3065 was clicked successfully!
+2022-07-12 17:16:18,708 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-12 17:16:19,848 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-12 17:16:20,032 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-12 17:16:26,662 [main] INFO Logger_File - The Scneario User add HP LP 3065  from Desktops tab to the cart has PASSED
+2022-07-12 17:16:54,813 [main] INFO Logger_File - The Scenario User verify all items are present in Desktops tab, has been started!
+2022-07-12 17:16:59,820 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 17:17:00,930 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 17:17:02,789 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 17:17:02,869 [main] INFO Logger_File - All items are present in DeskTop page!
+2022-07-12 17:17:09,447 [main] INFO Logger_File - The Scneario User verify all items are present in Desktops tab has PASSED
+2022-07-12 17:17:09,463 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-12 17:17:13,445 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 17:17:14,550 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 17:17:16,198 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 17:17:17,307 [main] INFO Logger_File - ADD TO CART option for HP LP3065 was clicked successfully!
+2022-07-12 17:17:19,937 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-12 17:17:21,131 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-12 17:17:21,300 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-12 17:17:27,819 [main] INFO Logger_File - The Scneario User add HP LP 3065  from Desktops tab to the cart has PASSED
+2022-07-12 17:17:27,835 [main] INFO Logger_File - The Scenario User add Canon EOS 5D from Desktops tab to the cart, has been started!
+2022-07-12 17:17:32,028 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 17:17:33,144 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 17:17:34,821 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 17:17:35,920 [main] INFO Logger_File - Add TO CART optoin for Canon EOS 5D was clicked successfully!
+2022-07-12 17:17:38,247 [main] INFO Logger_File - Red color was clicked from the dropdown!
+2022-07-12 17:17:41,745 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-12 17:17:42,895 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-12 17:17:43,067 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-12 17:17:45,678 [main] INFO Logger_File - The Scneario User add Canon EOS 5D from Desktops tab to the cart has PASSED
+2022-07-12 17:17:45,703 [main] INFO Logger_File - The Scenario User add a review to Canon EOS 5D item in Desktops tab, has been started!
+2022-07-12 17:17:49,921 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 17:17:51,042 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-12 17:17:52,657 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-12 17:17:54,861 [main] INFO Logger_File - Canon EOS 5D item was clicked successfully!
+2022-07-12 17:17:55,972 [main] INFO Logger_File - Write a review link was clicked successfully!
+2022-07-12 17:17:59,516 [main] INFO Logger_File - Required information for writing a review was completed successfully!
+2022-07-12 17:18:00,854 [main] INFO Logger_File - Continue button was clicked successfully!
+2022-07-12 17:18:01,042 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-12 17:18:05,629 [main] INFO Logger_File - The Scneario User add a review to Canon EOS 5D item in Desktops tab has PASSED
+2022-07-12 18:38:22,114 [main] INFO Logger_File - The Scenario User verify currency values change, has been started!
+2022-07-12 18:38:26,778 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 18:38:27,896 [main] INFO Logger_File - Currency tab was clicked successfully!
+2022-07-12 18:38:29,498 [main] INFO Logger_File - Euro currency was selected successfully!
+2022-07-12 18:38:30,636 [main] INFO Logger_File - Currency tab was changed to Euro Successfully!
+2022-07-12 18:38:31,318 [main] INFO Logger_File - The Scneario User verify currency values change has PASSED
+2022-07-12 18:38:31,334 [main] INFO Logger_File - The Scenario User empty Shopping cart message displays, has been started!
+2022-07-12 18:38:35,495 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-12 18:38:36,832 [main] INFO Logger_File - Shopping cart was clicked successfully!
+2022-07-12 18:38:37,907 [main] INFO Logger_File - Shopping cart Messaged was verified successfully!
+2022-07-12 18:38:38,629 [main] INFO Logger_File - The Scneario User empty Shopping cart message displays has PASSED
+2022-07-13 09:41:53,208 [main] INFO Logger_File - The Scenario User verify currency values change, has been started!
+2022-07-13 09:42:11,532 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 09:42:12,647 [main] INFO Logger_File - Currency tab was clicked successfully!
+2022-07-13 09:42:14,678 [main] INFO Logger_File - Euro currency was selected successfully!
+2022-07-13 09:42:15,884 [main] INFO Logger_File - Currency tab was changed to Euro Successfully!
+2022-07-13 09:42:30,818 [main] INFO Logger_File - The Scneario User verify currency values change has PASSED
+2022-07-13 09:42:30,844 [main] INFO Logger_File - The Scenario User empty Shopping cart message displays, has been started!
+2022-07-13 09:42:40,969 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 09:42:42,448 [main] INFO Logger_File - Shopping cart was clicked successfully!
+2022-07-13 09:42:43,548 [main] INFO Logger_File - Shopping cart Messaged was verified successfully!
+2022-07-13 09:42:46,075 [main] INFO Logger_File - The Scneario User empty Shopping cart message displays has PASSED
+2022-07-13 14:45:10,804 [main] INFO Logger_File - The Scenario Add and Remove a Mac book from Cart, has been started!
+2022-07-13 14:45:17,855 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 14:45:18,219 [main] INFO Logger_File - The Scneario Add and Remove a Mac book from Cart has UNDEFINED
+2022-07-13 14:45:18,245 [main] INFO Logger_File - The Scenario Product Comparison, has been started!
+2022-07-13 14:45:24,176 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 14:45:24,507 [main] INFO Logger_File - The Scneario Product Comparison has UNDEFINED
+2022-07-13 14:45:24,521 [main] INFO Logger_File - The Scenario Adding an item to Wish list, has been started!
+2022-07-13 14:45:29,156 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 14:45:29,407 [main] INFO Logger_File - The Scneario Adding an item to Wish list has UNDEFINED
+2022-07-13 14:45:29,421 [main] INFO Logger_File - The Scenario Validate the price of MacBook Prop is 20000, has been started!
+2022-07-13 14:45:33,819 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 14:45:34,084 [main] INFO Logger_File - The Scneario Validate the price of MacBook Prop is 20000 has UNDEFINED
+2022-07-13 16:09:12,167 [main] INFO Logger_File - The Scenario Add and Remove a Mac book from Cart, has been started!
+2022-07-13 16:09:17,828 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 16:09:18,935 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-13 16:09:20,871 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-13 16:09:23,645 [main] INFO Logger_File - MacBook item was clicked successfully!
+2022-07-13 16:09:24,754 [main] INFO Logger_File - ADD TO CART button was clicked successfully!
+2022-07-13 16:09:24,955 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-13 16:09:29,398 [main] INFO Logger_File - Cart option was clicked!
+2022-07-13 16:09:30,494 [main] INFO Logger_File - Red X button was clicked successfully!
+2022-07-13 16:09:31,695 [main] INFO Logger_File - Item is removed and Cart shows 0 price!
+2022-07-13 16:09:36,192 [main] INFO Logger_File - The Scneario Add and Remove a Mac book from Cart has PASSED
+2022-07-13 16:10:50,531 [main] INFO Logger_File - The Scenario Product Comparison, has been started!
+2022-07-13 16:10:55,238 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 16:10:56,343 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-13 16:10:57,876 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-13 16:10:58,996 [main] INFO Logger_File - comparison Icon for MackBook was clicked successfully!
+2022-07-13 16:11:00,097 [main] INFO Logger_File - Comparison icon for MacBook Air was clicked successfully!
+2022-07-13 16:11:00,205 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-13 16:11:03,838 [main] INFO Logger_File - Product comparison link for macbook air was clicked successfully!
+2022-07-13 16:11:04,936 [main] INFO Logger_File - Product comparison Chart was verified successfully!
+2022-07-13 16:11:09,370 [main] INFO Logger_File - The Scneario Product Comparison has PASSED
+2022-07-13 16:13:50,061 [main] INFO Logger_File - The Scenario Adding an item to Wish list, has been started!
+2022-07-13 16:13:54,828 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 16:13:55,936 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-13 16:13:57,837 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-13 16:13:58,957 [main] INFO Logger_File - Heart Icon for Sony VaIO was clicked successfully!
+2022-07-13 16:14:00,180 [main] INFO Logger_File - Login message was verified successfully!
+2022-07-13 16:14:00,624 [main] INFO Logger_File - The Scneario Adding an item to Wish list has PASSED
+2022-07-13 16:15:29,463 [main] INFO Logger_File - The Scenario Validate the price of MacBook Prop is 20000, has been started!
+2022-07-13 16:15:34,516 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 16:15:35,615 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-13 16:15:37,171 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-13 16:15:39,498 [main] INFO Logger_File - MacBook pro item was clicked successfully!
+2022-07-13 16:15:40,563 [main] INFO Logger_File - Price of MacBook pro was verified successfully!
+2022-07-13 16:15:44,885 [main] INFO Logger_File - The Scneario Validate the price of MacBook Prop is 20000 has PASSED
+2022-07-13 16:58:09,152 [main] INFO Logger_File - The Scenario Add and Remove a Mac book from Cart, has been started!
+2022-07-13 16:58:16,107 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 16:58:17,281 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-13 16:58:19,152 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-13 16:58:23,272 [main] INFO Logger_File - MacBook item was clicked successfully!
+2022-07-13 16:58:24,368 [main] INFO Logger_File - ADD TO CART button was clicked successfully!
+2022-07-13 16:58:24,569 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-13 16:58:29,074 [main] INFO Logger_File - Cart option was clicked!
+2022-07-13 16:58:30,200 [main] INFO Logger_File - Red X button was clicked successfully!
+2022-07-13 16:58:31,591 [main] INFO Logger_File - Item is removed and Cart shows 0 price!
+2022-07-13 16:58:36,075 [main] INFO Logger_File - The Scneario Add and Remove a Mac book from Cart has PASSED
+2022-07-13 16:58:36,094 [main] INFO Logger_File - The Scenario Product Comparison, has been started!
+2022-07-13 16:58:40,593 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 16:58:41,715 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-13 16:58:43,293 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-13 16:58:44,432 [main] INFO Logger_File - comparison Icon for MackBook was clicked successfully!
+2022-07-13 16:58:45,548 [main] INFO Logger_File - Comparison icon for MacBook Air was clicked successfully!
+2022-07-13 16:58:45,641 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-13 16:58:49,368 [main] INFO Logger_File - Product comparison link for macbook air was clicked successfully!
+2022-07-13 16:58:50,502 [main] INFO Logger_File - Product comparison Chart was verified successfully!
+2022-07-13 16:58:51,000 [main] INFO Logger_File - The Scneario Product Comparison has PASSED
+2022-07-13 16:58:51,025 [main] INFO Logger_File - The Scenario Adding an item to Wish list, has been started!
+2022-07-13 16:58:55,272 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 16:58:56,397 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-13 16:58:57,922 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-13 16:58:59,025 [main] INFO Logger_File - Heart Icon for Sony VaIO was clicked successfully!
+2022-07-13 16:59:00,226 [main] INFO Logger_File - Login message was verified successfully!
+2022-07-13 16:59:00,562 [main] INFO Logger_File - The Scneario Adding an item to Wish list has PASSED
+2022-07-13 16:59:00,584 [main] INFO Logger_File - The Scenario Validate the price of MacBook Prop is 20000, has been started!
+2022-07-13 16:59:05,589 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 16:59:06,722 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-13 16:59:08,260 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-13 16:59:09,423 [main] INFO Logger_File - MacBook pro item was clicked successfully!
+2022-07-13 21:05:24,854 [main] INFO Logger_File - The Scenario Product Comparison, has been started!
+2022-07-13 21:05:33,862 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 21:05:34,973 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-13 21:05:36,689 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-13 21:05:37,806 [main] INFO Logger_File - comparison Icon for MackBook was clicked successfully!
+2022-07-13 21:05:38,974 [main] INFO Logger_File - Comparison icon for MacBook Air was clicked successfully!
+2022-07-13 21:05:39,069 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-13 21:05:43,602 [main] INFO Logger_File - Product comparison link for macbook air was clicked successfully!
+2022-07-13 21:05:47,772 [main] INFO Logger_File - Product comparison Chart was verified successfully!
+2022-07-13 21:05:48,371 [main] INFO Logger_File - The Scneario Product Comparison has PASSED
+2022-07-13 21:06:28,080 [main] INFO Logger_File - The Scenario Product Comparison, has been started!
+2022-07-13 21:06:36,831 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 21:06:37,936 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-13 21:06:39,638 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-13 21:06:40,741 [main] INFO Logger_File - comparison Icon for MackBook was clicked successfully!
+2022-07-13 21:06:41,940 [main] INFO Logger_File - Comparison icon for MacBook Air was clicked successfully!
+2022-07-13 21:06:42,073 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-13 21:06:45,830 [main] INFO Logger_File - Product comparison link for macbook air was clicked successfully!
+2022-07-13 21:10:08,908 [main] INFO Logger_File - The Scenario Product Comparison, has been started!
+2022-07-13 21:10:18,293 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 21:10:19,834 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-13 21:10:22,771 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-13 21:10:23,914 [main] INFO Logger_File - comparison Icon for MackBook was clicked successfully!
+2022-07-13 21:10:25,046 [main] INFO Logger_File - Comparison icon for MacBook Air was clicked successfully!
+2022-07-13 21:10:25,200 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-13 21:10:29,237 [main] INFO Logger_File - Product comparison link for macbook air was clicked successfully!
+2022-07-13 21:10:35,520 [main] INFO Logger_File - Product comparison Chart was verified successfully!
+2022-07-13 21:10:36,242 [main] INFO Logger_File - The Scneario Product Comparison has PASSED
+2022-07-13 21:12:25,269 [main] INFO Logger_File - The Scenario Product Comparison, has been started!
+2022-07-13 21:12:31,147 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 21:12:32,290 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-13 21:12:33,988 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-13 21:12:35,114 [main] INFO Logger_File - comparison Icon for MackBook was clicked successfully!
+2022-07-13 21:12:36,215 [main] INFO Logger_File - Comparison icon for MacBook Air was clicked successfully!
+2022-07-13 21:15:34,066 [main] INFO Logger_File - The Scenario Product Comparison, has been started!
+2022-07-13 21:15:39,202 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 21:15:40,357 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-13 21:15:41,920 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-13 21:15:43,017 [main] INFO Logger_File - comparison Icon for MackBook was clicked successfully!
+2022-07-13 21:15:44,128 [main] INFO Logger_File - Comparison icon for MacBook Air was clicked successfully!
+2022-07-13 21:15:44,223 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-13 21:15:48,008 [main] INFO Logger_File - Product comparison link for macbook air was clicked successfully!
+2022-07-13 21:15:54,161 [main] INFO Logger_File - Product comparison Chart was verified successfully!
+2022-07-13 21:15:54,786 [main] INFO Logger_File - The Scneario Product Comparison has PASSED
+2022-07-13 21:20:02,006 [main] INFO Logger_File - The Scenario Product Comparison, has been started!
+2022-07-13 21:20:06,726 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-13 21:20:07,840 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-13 21:20:09,473 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-13 21:20:10,612 [main] INFO Logger_File - comparison Icon for MackBook was clicked successfully!
+2022-07-13 21:20:11,766 [main] INFO Logger_File - Comparison icon for MacBook Air was clicked successfully!
+2022-07-13 21:20:11,864 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-13 21:20:15,587 [main] INFO Logger_File - Product comparison link for macbook air was clicked successfully!
+2022-07-13 21:20:21,744 [main] INFO Logger_File - Product comparison Chart was verified successfully!
+2022-07-13 21:20:22,363 [main] INFO Logger_File - The Scneario Product Comparison has PASSED
+2022-07-14 16:01:05,818 [main] INFO Logger_File - The Scenario Register as an Affiliate user with Cheque Payment Method, has been started!
+2022-07-14 16:01:12,426 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 16:01:12,718 [main] INFO Logger_File - The Scneario Register as an Affiliate user with Cheque Payment Method has UNDEFINED
+2022-07-14 16:01:12,757 [main] INFO Logger_File - The Scenario Edit your affiliate information from Paypal payment method to Bank Transfer, has been started!
+2022-07-14 16:01:17,117 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 16:01:17,380 [main] INFO Logger_File - The Scneario Edit your affiliate information from Paypal payment method to Bank Transfer has UNDEFINED
+2022-07-14 16:01:17,394 [main] INFO Logger_File - The Scenario Edit your account information, has been started!
+2022-07-14 16:01:21,525 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 16:01:21,798 [main] INFO Logger_File - The Scneario Edit your account information has UNDEFINED
+2022-07-14 16:08:55,664 [main] INFO Logger_File - The Scenario Register as an Affiliate user with Cheque Payment Method, has been started!
+2022-07-14 16:09:00,193 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 16:09:00,530 [main] INFO Logger_File - The Scneario Register as an Affiliate user with Cheque Payment Method has PASSED
+2022-07-14 16:09:00,618 [main] INFO Logger_File - The Scenario Edit your affiliate information from Paypal payment method to Bank Transfer, has been started!
+2022-07-14 16:09:05,739 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 16:09:06,374 [main] INFO Logger_File - The Scneario Edit your affiliate information from Paypal payment method to Bank Transfer has UNDEFINED
+2022-07-14 16:09:06,392 [main] INFO Logger_File - The Scenario Edit your account information, has been started!
+2022-07-14 16:09:10,641 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 16:09:10,916 [main] INFO Logger_File - The Scneario Edit your account information has UNDEFINED
+2022-07-14 16:13:37,758 [main] INFO Logger_File - The Scenario Register as an Affiliate user with Cheque Payment Method, has been started!
+2022-07-14 16:13:42,320 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 16:13:42,732 [main] INFO Logger_File - The Scneario Register as an Affiliate user with Cheque Payment Method has PASSED
+2022-07-14 16:13:42,778 [main] INFO Logger_File - The Scenario Edit your affiliate information from Paypal payment method to Bank Transfer, has been started!
+2022-07-14 16:13:46,711 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 16:13:47,003 [main] INFO Logger_File - The Scneario Edit your affiliate information from Paypal payment method to Bank Transfer has PASSED
+2022-07-14 16:13:47,050 [main] INFO Logger_File - The Scenario Edit your account information, has been started!
+2022-07-14 16:13:51,090 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 16:13:51,500 [main] INFO Logger_File - The Scneario Edit your account information has UNDEFINED
+2022-07-14 17:32:25,131 [main] INFO Logger_File - The Scenario Register as an Affiliate user with Cheque Payment Method, has been started!
+2022-07-14 17:32:39,150 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 17:32:40,278 [main] INFO Logger_File - MyAccount Tab was clicked successfully!
+2022-07-14 17:32:41,748 [main] INFO Logger_File - Login link was clicked successfully!
+2022-07-14 17:32:44,039 [main] INFO Logger_File - Username and Password was entered successfully!
+2022-07-14 17:32:45,578 [main] INFO Logger_File - Login button was clicked successfully!
+2022-07-14 17:32:46,693 [main] INFO Logger_File - MyAccount DashBoard was verified successfully!
+2022-07-14 17:32:48,276 [main] INFO Logger_File - Affiliate link was clicked!
+2022-07-14 17:32:54,021 [main] INFO Logger_File - Affiliate account was filled-out successfully!
+2022-07-14 17:32:55,336 [main] INFO Logger_File - Check box was clicked!
+2022-07-14 17:32:57,114 [main] INFO Logger_File - Continue button was clicked successfully!
+2022-07-14 17:32:58,202 [main] INFO Logger_File - Success message was verified!
+2022-07-14 17:32:58,804 [main] INFO Logger_File - The Scneario Register as an Affiliate user with Cheque Payment Method has PASSED
+2022-07-14 17:34:09,668 [main] INFO Logger_File - The Scenario Edit your affiliate information from Paypal payment method to Bank Transfer, has been started!
+2022-07-14 17:34:14,711 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 17:34:15,822 [main] INFO Logger_File - MyAccount Tab was clicked successfully!
+2022-07-14 17:34:17,240 [main] INFO Logger_File - Login link was clicked successfully!
+2022-07-14 17:34:19,548 [main] INFO Logger_File - Username and Password was entered successfully!
+2022-07-14 17:34:20,998 [main] INFO Logger_File - Login button was clicked successfully!
+2022-07-14 17:34:22,085 [main] INFO Logger_File - MyAccount DashBoard was verified successfully!
+2022-07-14 17:34:23,693 [main] INFO Logger_File - Edit Your Affiliate Link was clicked successfully!
+2022-07-14 17:34:24,837 [main] INFO Logger_File - Bank Transfer radio button was clicked successfully!
+2022-07-14 17:35:52,279 [main] INFO Logger_File - The Scenario Edit your affiliate information from Paypal payment method to Bank Transfer, has been started!
+2022-07-14 17:35:57,382 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 17:35:58,491 [main] INFO Logger_File - MyAccount Tab was clicked successfully!
+2022-07-14 17:35:59,860 [main] INFO Logger_File - Login link was clicked successfully!
+2022-07-14 17:36:02,212 [main] INFO Logger_File - Username and Password was entered successfully!
+2022-07-14 17:36:03,753 [main] INFO Logger_File - Login button was clicked successfully!
+2022-07-14 17:36:04,843 [main] INFO Logger_File - MyAccount DashBoard was verified successfully!
+2022-07-14 17:36:06,373 [main] INFO Logger_File - Edit Your Affiliate Link was clicked successfully!
+2022-07-14 17:36:07,507 [main] INFO Logger_File - Bank Transfer radio button was clicked successfully!
+2022-07-14 17:39:38,505 [main] INFO Logger_File - The Scenario Edit your affiliate information from Paypal payment method to Bank Transfer, has been started!
+2022-07-14 17:39:43,735 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 17:39:44,840 [main] INFO Logger_File - MyAccount Tab was clicked successfully!
+2022-07-14 17:39:46,285 [main] INFO Logger_File - Login link was clicked successfully!
+2022-07-14 17:39:48,625 [main] INFO Logger_File - Username and Password was entered successfully!
+2022-07-14 17:39:50,093 [main] INFO Logger_File - Login button was clicked successfully!
+2022-07-14 17:39:51,182 [main] INFO Logger_File - MyAccount DashBoard was verified successfully!
+2022-07-14 17:39:52,842 [main] INFO Logger_File - Edit Your Affiliate Link was clicked successfully!
+2022-07-14 17:39:54,047 [main] INFO Logger_File - Bank Transfer radio button was clicked successfully!
+2022-07-14 17:41:22,491 [main] INFO Logger_File - The Scenario Edit your affiliate information from Paypal payment method to Bank Transfer, has been started!
+2022-07-14 17:41:27,536 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 17:41:28,650 [main] INFO Logger_File - MyAccount Tab was clicked successfully!
+2022-07-14 17:41:30,083 [main] INFO Logger_File - Login link was clicked successfully!
+2022-07-14 17:41:32,425 [main] INFO Logger_File - Username and Password was entered successfully!
+2022-07-14 17:41:33,900 [main] INFO Logger_File - Login button was clicked successfully!
+2022-07-14 17:41:35,019 [main] INFO Logger_File - MyAccount DashBoard was verified successfully!
+2022-07-14 17:41:36,663 [main] INFO Logger_File - Edit Your Affiliate Link was clicked successfully!
+2022-07-14 17:41:37,875 [main] INFO Logger_File - Bank Transfer radio button was clicked successfully!
+2022-07-14 17:41:43,763 [main] INFO Logger_File - Bank information was filled-out successfully!
+2022-07-14 17:41:45,572 [main] INFO Logger_File - Continue button was clicked successfully!
+2022-07-14 17:41:46,664 [main] INFO Logger_File - Success message was verified!
+2022-07-14 17:41:47,087 [main] INFO Logger_File - The Scneario Edit your affiliate information from Paypal payment method to Bank Transfer has PASSED
+2022-07-14 17:43:54,969 [main] INFO Logger_File - The Scenario Edit your account information, has been started!
+2022-07-14 17:43:59,526 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 17:44:00,627 [main] INFO Logger_File - MyAccount Tab was clicked successfully!
+2022-07-14 17:44:01,982 [main] INFO Logger_File - Login link was clicked successfully!
+2022-07-14 17:44:04,292 [main] INFO Logger_File - Username and Password was entered successfully!
+2022-07-14 17:44:05,804 [main] INFO Logger_File - Login button was clicked successfully!
+2022-07-14 17:44:06,898 [main] INFO Logger_File - MyAccount DashBoard was verified successfully!
+2022-07-14 17:44:09,029 [main] INFO Logger_File - Edit Your Account Information was clicked successfully!
+2022-07-14 17:44:13,698 [main] INFO Logger_File - Account information was verfied!
+2022-07-14 17:44:14,844 [main] INFO Logger_File - Continue button was clicked successfully!
+2022-07-14 17:47:01,938 [main] INFO Logger_File - The Scenario Edit your account information, has been started!
+2022-07-14 17:47:06,964 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 17:47:08,087 [main] INFO Logger_File - MyAccount Tab was clicked successfully!
+2022-07-14 17:47:09,582 [main] INFO Logger_File - Login link was clicked successfully!
+2022-07-14 17:47:11,870 [main] INFO Logger_File - Username and Password was entered successfully!
+2022-07-14 17:47:13,403 [main] INFO Logger_File - Login button was clicked successfully!
+2022-07-14 17:47:14,513 [main] INFO Logger_File - MyAccount DashBoard was verified successfully!
+2022-07-14 17:47:16,489 [main] INFO Logger_File - Edit Your Account Information was clicked successfully!
+2022-07-14 17:47:21,402 [main] INFO Logger_File - Account information was verfied!
+2022-07-14 17:47:23,342 [main] INFO Logger_File - Continue button was clicked successfully!
+2022-07-14 17:47:23,396 [main] INFO Logger_File - Message was verified successfully!
+2022-07-14 17:47:23,944 [main] INFO Logger_File - The Scneario Edit your account information has PASSED
+2022-07-14 18:08:45,388 [main] INFO Logger_File - The Scenario User verify all items are present in Desktops tab, has been started!
+2022-07-14 18:08:51,633 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:08:52,819 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-14 18:08:54,557 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-14 18:08:54,611 [main] INFO Logger_File - All items are present in DeskTop page!
+2022-07-14 18:08:57,208 [main] INFO Logger_File - The Scneario User verify all items are present in Desktops tab has PASSED
+2022-07-14 18:08:57,272 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-14 18:09:01,598 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:09:02,764 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-14 18:09:04,889 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-14 18:09:05,980 [main] INFO Logger_File - ADD TO CART option for HP LP3065 was clicked successfully!
+2022-07-14 18:09:09,324 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-14 18:09:10,464 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-14 18:09:10,642 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:09:17,160 [main] INFO Logger_File - The Scneario User add HP LP 3065  from Desktops tab to the cart has PASSED
+2022-07-14 18:09:17,176 [main] INFO Logger_File - The Scenario User add Canon EOS 5D from Desktops tab to the cart, has been started!
+2022-07-14 18:09:21,347 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:09:22,476 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-14 18:09:24,165 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-14 18:09:25,261 [main] INFO Logger_File - Add TO CART optoin for Canon EOS 5D was clicked successfully!
+2022-07-14 18:09:27,646 [main] INFO Logger_File - Red color was clicked from the dropdown!
+2022-07-14 18:09:31,084 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-14 18:09:32,386 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-14 18:09:32,561 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:09:39,042 [main] INFO Logger_File - The Scneario User add Canon EOS 5D from Desktops tab to the cart has PASSED
+2022-07-14 18:09:39,058 [main] INFO Logger_File - The Scenario User add a review to Canon EOS 5D item in Desktops tab, has been started!
+2022-07-14 18:09:43,131 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:09:44,242 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-14 18:09:46,180 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-14 18:09:48,375 [main] INFO Logger_File - Canon EOS 5D item was clicked successfully!
+2022-07-14 18:09:49,514 [main] INFO Logger_File - Write a review link was clicked successfully!
+2022-07-14 18:09:53,082 [main] INFO Logger_File - Required information for writing a review was completed successfully!
+2022-07-14 18:09:54,409 [main] INFO Logger_File - Continue button was clicked successfully!
+2022-07-14 18:09:54,648 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:09:59,085 [main] INFO Logger_File - The Scneario User add a review to Canon EOS 5D item in Desktops tab has PASSED
+2022-07-14 18:09:59,100 [main] INFO Logger_File - The Scenario User verify currency values change, has been started!
+2022-07-14 18:10:03,275 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:10:04,396 [main] INFO Logger_File - Currency tab was clicked successfully!
+2022-07-14 18:10:06,066 [main] INFO Logger_File - Euro currency was selected successfully!
+2022-07-14 18:10:07,138 [main] INFO Logger_File - Currency tab was changed to Euro Successfully!
+2022-07-14 18:10:07,780 [main] INFO Logger_File - The Scneario User verify currency values change has PASSED
+2022-07-14 18:10:07,795 [main] INFO Logger_File - The Scenario User empty Shopping cart message displays, has been started!
+2022-07-14 18:10:11,821 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:10:13,213 [main] INFO Logger_File - Shopping cart was clicked successfully!
+2022-07-14 18:10:14,314 [main] INFO Logger_File - Shopping cart Messaged was verified successfully!
+2022-07-14 18:10:14,719 [main] INFO Logger_File - The Scneario User empty Shopping cart message displays has PASSED
+2022-07-14 18:10:14,735 [main] INFO Logger_File - The Scenario Add and Remove a Mac book from Cart, has been started!
+2022-07-14 18:10:18,577 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:10:19,811 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-14 18:10:21,305 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-14 18:10:23,656 [main] INFO Logger_File - MacBook item was clicked successfully!
+2022-07-14 18:10:24,759 [main] INFO Logger_File - ADD TO CART button was clicked successfully!
+2022-07-14 18:10:24,935 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:10:29,433 [main] INFO Logger_File - Cart option was clicked!
+2022-07-14 18:10:30,562 [main] INFO Logger_File - Red X button was clicked successfully!
+2022-07-14 18:10:31,795 [main] INFO Logger_File - Item is removed and Cart shows 0 price!
+2022-07-14 18:10:32,304 [main] INFO Logger_File - The Scneario Add and Remove a Mac book from Cart has PASSED
+2022-07-14 18:10:32,320 [main] INFO Logger_File - The Scenario Product Comparison, has been started!
+2022-07-14 18:10:36,475 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:10:37,582 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-14 18:10:39,217 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-14 18:10:40,329 [main] INFO Logger_File - comparison Icon for MackBook was clicked successfully!
+2022-07-14 18:10:41,475 [main] INFO Logger_File - Comparison icon for MacBook Air was clicked successfully!
+2022-07-14 18:10:41,573 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:10:45,259 [main] INFO Logger_File - Product comparison link for macbook air was clicked successfully!
+2022-07-14 18:10:51,410 [main] INFO Logger_File - Product comparison Chart was verified successfully!
+2022-07-14 18:10:51,871 [main] INFO Logger_File - The Scneario Product Comparison has PASSED
+2022-07-14 18:10:51,871 [main] INFO Logger_File - The Scenario Adding an item to Wish list, has been started!
+2022-07-14 18:10:56,047 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:10:57,149 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-14 18:10:58,791 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-14 18:10:59,920 [main] INFO Logger_File - Heart Icon for Sony VaIO was clicked successfully!
+2022-07-14 18:11:01,125 [main] INFO Logger_File - Login message was verified successfully!
+2022-07-14 18:11:01,489 [main] INFO Logger_File - The Scneario Adding an item to Wish list has PASSED
+2022-07-14 18:11:01,502 [main] INFO Logger_File - The Scenario Validate the price of MacBook Prop is 20000, has been started!
+2022-07-14 18:11:05,675 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:11:06,796 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-14 18:11:08,422 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-14 18:11:10,616 [main] INFO Logger_File - MacBook pro item was clicked successfully!
+2022-07-14 18:11:11,675 [main] INFO Logger_File - Price of MacBook pro was verified successfully!
+2022-07-14 18:11:15,983 [main] INFO Logger_File - The Scneario Validate the price of MacBook Prop is 20000 has PASSED
+2022-07-14 18:11:15,999 [main] INFO Logger_File - The Scenario Register as an Affiliate user with Cheque Payment Method, has been started!
+2022-07-14 18:11:19,705 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:11:20,807 [main] INFO Logger_File - MyAccount Tab was clicked successfully!
+2022-07-14 18:11:22,216 [main] INFO Logger_File - Login link was clicked successfully!
+2022-07-14 18:11:24,482 [main] INFO Logger_File - Username and Password was entered successfully!
+2022-07-14 18:11:25,858 [main] INFO Logger_File - Login button was clicked successfully!
+2022-07-14 18:11:46,171 [main] INFO Logger_File - The Scenario Edit your affiliate information from Paypal payment method to Bank Transfer, has been started!
+2022-07-14 18:11:51,074 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:11:52,210 [main] INFO Logger_File - MyAccount Tab was clicked successfully!
+2022-07-14 18:11:53,580 [main] INFO Logger_File - Login link was clicked successfully!
+2022-07-14 18:11:55,856 [main] INFO Logger_File - Username and Password was entered successfully!
+2022-07-14 18:11:57,638 [main] INFO Logger_File - Login button was clicked successfully!
+2022-07-14 18:11:58,970 [main] INFO Logger_File - The Scenario Edit your account information, has been started!
+2022-07-14 18:13:30,562 [main] INFO Logger_File - The Scenario User verify all items are present in Desktops tab, has been started!
+2022-07-14 18:13:35,886 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:13:36,995 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-14 18:13:38,628 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-14 18:13:38,702 [main] INFO Logger_File - All items are present in DeskTop page!
+2022-07-14 18:13:41,331 [main] INFO Logger_File - The Scneario User verify all items are present in Desktops tab has PASSED
+2022-07-14 18:13:41,378 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-14 18:15:27,962 [main] INFO Logger_File - The Scenario User verify all items are present in Desktops tab, has been started!
+2022-07-14 18:16:22,263 [main] INFO Logger_File - The Scenario User verify all items are present in Desktops tab, has been started!
+2022-07-14 18:16:27,393 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:16:28,500 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-14 18:16:30,242 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-14 18:16:30,298 [main] INFO Logger_File - All items are present in DeskTop page!
+2022-07-14 18:16:32,879 [main] INFO Logger_File - The Scneario User verify all items are present in Desktops tab has PASSED
+2022-07-14 18:16:32,920 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-14 18:16:37,220 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:16:38,405 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-14 18:16:40,086 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-14 18:16:41,198 [main] INFO Logger_File - ADD TO CART option for HP LP3065 was clicked successfully!
+2022-07-14 18:16:43,849 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-14 18:16:45,050 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-14 18:16:45,215 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:16:51,742 [main] INFO Logger_File - The Scneario User add HP LP 3065  from Desktops tab to the cart has PASSED
+2022-07-14 18:16:51,757 [main] INFO Logger_File - The Scenario User add Canon EOS 5D from Desktops tab to the cart, has been started!
+2022-07-14 18:16:55,874 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:16:56,985 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-14 18:16:58,569 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-14 18:16:59,661 [main] INFO Logger_File - Add TO CART optoin for Canon EOS 5D was clicked successfully!
+2022-07-14 18:17:01,964 [main] INFO Logger_File - Red color was clicked from the dropdown!
+2022-07-14 18:17:05,429 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-14 18:17:06,582 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-14 18:17:06,754 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:17:13,274 [main] INFO Logger_File - The Scneario User add Canon EOS 5D from Desktops tab to the cart has PASSED
+2022-07-14 18:17:13,290 [main] INFO Logger_File - The Scenario User add a review to Canon EOS 5D item in Desktops tab, has been started!
+2022-07-14 18:17:17,261 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:17:18,374 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-14 18:17:20,208 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-14 18:17:23,244 [main] INFO Logger_File - Canon EOS 5D item was clicked successfully!
+2022-07-14 18:17:24,353 [main] INFO Logger_File - Write a review link was clicked successfully!
+2022-07-14 18:17:27,888 [main] INFO Logger_File - Required information for writing a review was completed successfully!
+2022-07-14 18:17:29,200 [main] INFO Logger_File - Continue button was clicked successfully!
+2022-07-14 18:17:29,433 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:17:33,888 [main] INFO Logger_File - The Scneario User add a review to Canon EOS 5D item in Desktops tab has PASSED
+2022-07-14 18:17:33,904 [main] INFO Logger_File - The Scenario User verify currency values change, has been started!
+2022-07-14 18:17:38,328 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:17:39,464 [main] INFO Logger_File - Currency tab was clicked successfully!
+2022-07-14 18:17:41,084 [main] INFO Logger_File - Euro currency was selected successfully!
+2022-07-14 18:17:42,142 [main] INFO Logger_File - Currency tab was changed to Euro Successfully!
+2022-07-14 18:17:42,723 [main] INFO Logger_File - The Scneario User verify currency values change has PASSED
+2022-07-14 18:17:42,737 [main] INFO Logger_File - The Scenario User empty Shopping cart message displays, has been started!
+2022-07-14 18:17:46,674 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:17:48,071 [main] INFO Logger_File - Shopping cart was clicked successfully!
+2022-07-14 18:17:49,148 [main] INFO Logger_File - Shopping cart Messaged was verified successfully!
+2022-07-14 18:17:49,617 [main] INFO Logger_File - The Scneario User empty Shopping cart message displays has PASSED
+2022-07-14 18:17:49,636 [main] INFO Logger_File - The Scenario Add and Remove a Mac book from Cart, has been started!
+2022-07-14 18:17:54,061 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:17:55,185 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-14 18:17:56,747 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-14 18:17:58,828 [main] INFO Logger_File - MacBook item was clicked successfully!
+2022-07-14 18:17:59,929 [main] INFO Logger_File - ADD TO CART button was clicked successfully!
+2022-07-14 18:18:00,217 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:18:04,690 [main] INFO Logger_File - Cart option was clicked!
+2022-07-14 18:18:05,845 [main] INFO Logger_File - Red X button was clicked successfully!
+2022-07-14 18:18:07,043 [main] INFO Logger_File - Item is removed and Cart shows 0 price!
+2022-07-14 18:18:11,505 [main] INFO Logger_File - The Scneario Add and Remove a Mac book from Cart has PASSED
+2022-07-14 18:18:11,520 [main] INFO Logger_File - The Scenario Product Comparison, has been started!
+2022-07-14 18:18:15,628 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:18:16,735 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-14 18:18:18,244 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-14 18:18:19,427 [main] INFO Logger_File - comparison Icon for MackBook was clicked successfully!
+2022-07-14 18:18:20,753 [main] INFO Logger_File - Comparison icon for MacBook Air was clicked successfully!
+2022-07-14 18:18:21,208 [main] INFO Logger_File - The Scenario Adding an item to Wish list, has been started!
+2022-07-14 18:18:25,260 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:18:26,361 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-14 18:18:27,960 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-14 18:18:29,053 [main] INFO Logger_File - Heart Icon for Sony VaIO was clicked successfully!
+2022-07-14 18:18:30,274 [main] INFO Logger_File - Login message was verified successfully!
+2022-07-14 18:18:30,588 [main] INFO Logger_File - The Scneario Adding an item to Wish list has PASSED
+2022-07-14 18:18:30,609 [main] INFO Logger_File - The Scenario Validate the price of MacBook Prop is 20000, has been started!
+2022-07-14 18:18:38,328 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:18:39,434 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-14 18:18:41,442 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-14 18:18:45,253 [main] INFO Logger_File - MacBook pro item was clicked successfully!
+2022-07-14 18:18:46,326 [main] INFO Logger_File - Price of MacBook pro was verified successfully!
+2022-07-14 18:18:50,567 [main] INFO Logger_File - The Scneario Validate the price of MacBook Prop is 20000 has PASSED
+2022-07-14 18:18:50,583 [main] INFO Logger_File - The Scenario Register as an Affiliate user with Cheque Payment Method, has been started!
+2022-07-14 18:18:56,548 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:18:57,672 [main] INFO Logger_File - MyAccount Tab was clicked successfully!
+2022-07-14 18:18:59,155 [main] INFO Logger_File - Login link was clicked successfully!
+2022-07-14 18:19:01,480 [main] INFO Logger_File - Username and Password was entered successfully!
+2022-07-14 18:19:02,843 [main] INFO Logger_File - Login button was clicked successfully!
+2022-07-14 18:19:13,872 [main] INFO Logger_File - The Scenario Edit your affiliate information from Paypal payment method to Bank Transfer, has been started!
+2022-07-14 18:19:16,706 [main] INFO Logger_File - The Scenario Edit your account information, has been started!
+2022-07-14 18:20:47,509 [main] INFO Logger_File - The Scenario User verify all items are present in Desktops tab, has been started!
+2022-07-14 18:20:52,320 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:20:53,426 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-14 18:20:55,183 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-14 18:20:55,261 [main] INFO Logger_File - All items are present in DeskTop page!
+2022-07-14 18:20:58,039 [main] INFO Logger_File - The Scneario User verify all items are present in Desktops tab has PASSED
+2022-07-14 18:20:58,099 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-14 18:21:04,374 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:21:05,468 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-14 18:21:07,333 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-14 18:21:08,445 [main] INFO Logger_File - ADD TO CART option for HP LP3065 was clicked successfully!
+2022-07-14 18:21:10,945 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-14 18:21:12,070 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-14 18:21:12,257 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:21:18,718 [main] INFO Logger_File - The Scneario User add HP LP 3065  from Desktops tab to the cart has PASSED
+2022-07-14 18:21:18,733 [main] INFO Logger_File - The Scenario User add Canon EOS 5D from Desktops tab to the cart, has been started!
+2022-07-14 18:21:22,926 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:21:24,015 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-14 18:21:25,794 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-14 18:21:26,912 [main] INFO Logger_File - Add TO CART optoin for Canon EOS 5D was clicked successfully!
+2022-07-14 18:21:29,243 [main] INFO Logger_File - Red color was clicked from the dropdown!
+2022-07-14 18:21:32,655 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-14 18:21:33,789 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-14 18:21:33,986 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:21:40,474 [main] INFO Logger_File - The Scneario User add Canon EOS 5D from Desktops tab to the cart has PASSED
+2022-07-14 18:21:40,489 [main] INFO Logger_File - The Scenario User add a review to Canon EOS 5D item in Desktops tab, has been started!
+2022-07-14 18:21:44,558 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:21:45,672 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-14 18:21:47,244 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-14 18:21:49,545 [main] INFO Logger_File - Canon EOS 5D item was clicked successfully!
+2022-07-14 18:21:50,658 [main] INFO Logger_File - Write a review link was clicked successfully!
+2022-07-14 18:21:54,127 [main] INFO Logger_File - Required information for writing a review was completed successfully!
+2022-07-14 18:21:55,462 [main] INFO Logger_File - Continue button was clicked successfully!
+2022-07-14 18:21:55,635 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:21:56,207 [main] INFO Logger_File - The Scneario User add a review to Canon EOS 5D item in Desktops tab has PASSED
+2022-07-14 18:21:56,231 [main] INFO Logger_File - The Scenario User verify currency values change, has been started!
+2022-07-14 18:22:00,743 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:22:01,840 [main] INFO Logger_File - Currency tab was clicked successfully!
+2022-07-14 18:22:03,388 [main] INFO Logger_File - Euro currency was selected successfully!
+2022-07-14 18:22:04,435 [main] INFO Logger_File - Currency tab was changed to Euro Successfully!
+2022-07-14 18:22:05,110 [main] INFO Logger_File - The Scneario User verify currency values change has PASSED
+2022-07-14 18:22:05,123 [main] INFO Logger_File - The Scenario User empty Shopping cart message displays, has been started!
+2022-07-14 18:22:10,716 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:22:12,119 [main] INFO Logger_File - Shopping cart was clicked successfully!
+2022-07-14 18:22:13,197 [main] INFO Logger_File - Shopping cart Messaged was verified successfully!
+2022-07-14 18:22:13,696 [main] INFO Logger_File - The Scneario User empty Shopping cart message displays has PASSED
+2022-07-14 18:22:13,720 [main] INFO Logger_File - The Scenario Add and Remove a Mac book from Cart, has been started!
+2022-07-14 18:22:17,589 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:22:18,744 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-14 18:22:20,232 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-14 18:22:23,107 [main] INFO Logger_File - MacBook item was clicked successfully!
+2022-07-14 18:22:24,275 [main] INFO Logger_File - ADD TO CART button was clicked successfully!
+2022-07-14 18:22:24,468 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:22:28,890 [main] INFO Logger_File - Cart option was clicked!
+2022-07-14 18:22:29,988 [main] INFO Logger_File - Red X button was clicked successfully!
+2022-07-14 18:22:31,196 [main] INFO Logger_File - Item is removed and Cart shows 0 price!
+2022-07-14 18:22:31,821 [main] INFO Logger_File - The Scneario Add and Remove a Mac book from Cart has PASSED
+2022-07-14 18:22:31,848 [main] INFO Logger_File - The Scenario Product Comparison, has been started!
+2022-07-14 18:22:35,913 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:22:37,015 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-14 18:22:38,637 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-14 18:22:39,755 [main] INFO Logger_File - comparison Icon for MackBook was clicked successfully!
+2022-07-14 18:22:40,917 [main] INFO Logger_File - Comparison icon for MacBook Air was clicked successfully!
+2022-07-14 18:22:40,968 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:22:44,653 [main] INFO Logger_File - Product comparison link for macbook air was clicked successfully!
+2022-07-14 18:22:47,770 [main] INFO Logger_File - Product comparison Chart was verified successfully!
+2022-07-14 18:22:48,280 [main] INFO Logger_File - The Scneario Product Comparison has PASSED
+2022-07-14 18:22:48,291 [main] INFO Logger_File - The Scenario Adding an item to Wish list, has been started!
+2022-07-14 18:22:52,555 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:22:53,649 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-14 18:22:55,140 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-14 18:22:56,238 [main] INFO Logger_File - Heart Icon for Sony VaIO was clicked successfully!
+2022-07-14 18:22:57,431 [main] INFO Logger_File - Login message was verified successfully!
+2022-07-14 18:22:57,730 [main] INFO Logger_File - The Scneario Adding an item to Wish list has PASSED
+2022-07-14 18:22:57,749 [main] INFO Logger_File - The Scenario Validate the price of MacBook Prop is 20000, has been started!
+2022-07-14 18:23:02,198 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:23:03,332 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-14 18:23:04,940 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-14 18:23:07,263 [main] INFO Logger_File - MacBook pro item was clicked successfully!
+2022-07-14 18:23:08,318 [main] INFO Logger_File - Price of MacBook pro was verified successfully!
+2022-07-14 18:23:12,560 [main] INFO Logger_File - The Scneario Validate the price of MacBook Prop is 20000 has PASSED
+2022-07-14 18:23:12,560 [main] INFO Logger_File - The Scenario Register as an Affiliate user with Cheque Payment Method, has been started!
+2022-07-14 18:23:16,445 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:23:17,552 [main] INFO Logger_File - MyAccount Tab was clicked successfully!
+2022-07-14 18:23:18,968 [main] INFO Logger_File - Login link was clicked successfully!
+2022-07-14 18:23:21,291 [main] INFO Logger_File - Username and Password was entered successfully!
+2022-07-14 18:23:22,724 [main] INFO Logger_File - Login button was clicked successfully!
+2022-07-14 18:23:23,833 [main] INFO Logger_File - MyAccount DashBoard was verified successfully!
+2022-07-14 18:23:25,403 [main] INFO Logger_File - Affiliate link was clicked!
+2022-07-14 18:23:31,097 [main] INFO Logger_File - Affiliate account was filled-out successfully!
+2022-07-14 18:23:50,122 [main] INFO Logger_File - The Scenario Edit your affiliate information from Paypal payment method to Bank Transfer, has been started!
+2022-07-14 18:23:54,926 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:23:56,037 [main] INFO Logger_File - MyAccount Tab was clicked successfully!
+2022-07-14 18:23:57,493 [main] INFO Logger_File - Login link was clicked successfully!
+2022-07-14 18:23:59,758 [main] INFO Logger_File - Username and Password was entered successfully!
+2022-07-14 18:24:01,226 [main] INFO Logger_File - Login button was clicked successfully!
+2022-07-14 18:24:02,298 [main] INFO Logger_File - MyAccount DashBoard was verified successfully!
+2022-07-14 18:24:03,873 [main] INFO Logger_File - Edit Your Affiliate Link was clicked successfully!
+2022-07-14 18:24:04,992 [main] INFO Logger_File - Bank Transfer radio button was clicked successfully!
+2022-07-14 18:24:10,816 [main] INFO Logger_File - Bank information was filled-out successfully!
+2022-07-14 18:24:12,653 [main] INFO Logger_File - Continue button was clicked successfully!
+2022-07-14 18:24:13,726 [main] INFO Logger_File - Success message was verified!
+2022-07-14 18:24:14,240 [main] INFO Logger_File - The Scneario Edit your affiliate information from Paypal payment method to Bank Transfer has PASSED
+2022-07-14 18:24:14,254 [main] INFO Logger_File - The Scenario Edit your account information, has been started!
+2022-07-14 18:24:18,282 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:24:19,416 [main] INFO Logger_File - MyAccount Tab was clicked successfully!
+2022-07-14 18:24:20,965 [main] INFO Logger_File - Login link was clicked successfully!
+2022-07-14 18:24:23,296 [main] INFO Logger_File - Username and Password was entered successfully!
+2022-07-14 18:24:24,752 [main] INFO Logger_File - Login button was clicked successfully!
+2022-07-14 18:24:25,840 [main] INFO Logger_File - MyAccount DashBoard was verified successfully!
+2022-07-14 18:24:27,923 [main] INFO Logger_File - Edit Your Account Information was clicked successfully!
+2022-07-14 18:24:32,752 [main] INFO Logger_File - Account information was verfied!
+2022-07-14 18:24:34,334 [main] INFO Logger_File - Continue button was clicked successfully!
+2022-07-14 18:24:34,379 [main] INFO Logger_File - Message was verified successfully!
+2022-07-14 18:24:34,879 [main] INFO Logger_File - The Scneario Edit your account information has PASSED
+2022-07-14 18:30:23,271 [main] INFO Logger_File - The Scenario User verify all items are present in Desktops tab, has been started!
+2022-07-14 18:30:27,912 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:30:29,025 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-14 18:30:30,695 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-14 18:30:30,765 [main] INFO Logger_File - All items are present in DeskTop page!
+2022-07-14 18:30:33,382 [main] INFO Logger_File - The Scneario User verify all items are present in Desktops tab has PASSED
+2022-07-14 18:30:33,432 [main] INFO Logger_File - The Scenario User add HP LP 3065  from Desktops tab to the cart, has been started!
+2022-07-14 18:30:37,543 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:30:38,708 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-14 18:30:40,478 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-14 18:30:41,578 [main] INFO Logger_File - ADD TO CART option for HP LP3065 was clicked successfully!
+2022-07-14 18:30:44,446 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-14 18:30:45,601 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-14 18:30:46,906 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:30:53,419 [main] INFO Logger_File - The Scneario User add HP LP 3065  from Desktops tab to the cart has PASSED
+2022-07-14 18:30:53,455 [main] INFO Logger_File - The Scenario User add Canon EOS 5D from Desktops tab to the cart, has been started!
+2022-07-14 18:30:57,932 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:30:59,038 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-14 18:31:00,679 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-14 18:31:01,783 [main] INFO Logger_File - Add TO CART optoin for Canon EOS 5D was clicked successfully!
+2022-07-14 18:31:06,157 [main] INFO Logger_File - Red color was clicked from the dropdown!
+2022-07-14 18:31:09,545 [main] INFO Logger_File - Desired quantity was entered successfully!
+2022-07-14 18:31:10,646 [main] INFO Logger_File - Add To Cart button was clicked successfully!
+2022-07-14 18:31:11,891 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:31:14,564 [main] INFO Logger_File - The Scneario User add Canon EOS 5D from Desktops tab to the cart has PASSED
+2022-07-14 18:31:14,585 [main] INFO Logger_File - The Scenario User add a review to Canon EOS 5D item in Desktops tab, has been started!
+2022-07-14 18:31:18,422 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:31:19,606 [main] INFO Logger_File - Desktop Tab was clicked successfully!
+2022-07-14 18:31:21,375 [main] INFO Logger_File - Show All Desktop was verified successfully!
+2022-07-14 18:31:24,075 [main] INFO Logger_File - Canon EOS 5D item was clicked successfully!
+2022-07-14 18:31:25,205 [main] INFO Logger_File - Write a review link was clicked successfully!
+2022-07-14 18:31:28,730 [main] INFO Logger_File - Required information for writing a review was completed successfully!
+2022-07-14 18:31:30,081 [main] INFO Logger_File - Continue button was clicked successfully!
+2022-07-14 18:31:31,307 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:31:35,783 [main] INFO Logger_File - The Scneario User add a review to Canon EOS 5D item in Desktops tab has PASSED
+2022-07-14 18:31:35,798 [main] INFO Logger_File - The Scenario User verify currency values change, has been started!
+2022-07-14 18:31:39,834 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:31:40,964 [main] INFO Logger_File - Currency tab was clicked successfully!
+2022-07-14 18:31:42,672 [main] INFO Logger_File - Euro currency was selected successfully!
+2022-07-14 18:31:43,745 [main] INFO Logger_File - Currency tab was changed to Euro Successfully!
+2022-07-14 18:31:44,481 [main] INFO Logger_File - The Scneario User verify currency values change has PASSED
+2022-07-14 18:31:44,501 [main] INFO Logger_File - The Scenario User empty Shopping cart message displays, has been started!
+2022-07-14 18:31:48,478 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:31:49,975 [main] INFO Logger_File - Shopping cart was clicked successfully!
+2022-07-14 18:31:51,049 [main] INFO Logger_File - Shopping cart Messaged was verified successfully!
+2022-07-14 18:31:51,519 [main] INFO Logger_File - The Scneario User empty Shopping cart message displays has PASSED
+2022-07-14 18:31:51,538 [main] INFO Logger_File - The Scenario Add and Remove a Mac book from Cart, has been started!
+2022-07-14 18:31:55,748 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:31:56,860 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-14 18:31:58,399 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-14 18:32:01,136 [main] INFO Logger_File - MacBook item was clicked successfully!
+2022-07-14 18:32:02,232 [main] INFO Logger_File - ADD TO CART button was clicked successfully!
+2022-07-14 18:32:03,473 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:32:08,956 [main] INFO Logger_File - Cart option was clicked!
+2022-07-14 18:32:10,113 [main] INFO Logger_File - Red X button was clicked successfully!
+2022-07-14 18:32:12,034 [main] INFO Logger_File - Item is removed and Cart shows 0 price!
+2022-07-14 18:32:12,555 [main] INFO Logger_File - The Scneario Add and Remove a Mac book from Cart has PASSED
+2022-07-14 18:32:12,604 [main] INFO Logger_File - The Scenario Product Comparison, has been started!
+2022-07-14 18:32:16,565 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:32:17,703 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-14 18:32:19,302 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-14 18:32:20,427 [main] INFO Logger_File - comparison Icon for MackBook was clicked successfully!
+2022-07-14 18:32:21,540 [main] INFO Logger_File - Comparison icon for MacBook Air was clicked successfully!
+2022-07-14 18:32:22,606 [main] INFO Logger_File - Success message was verified successfully!
+2022-07-14 18:32:26,263 [main] INFO Logger_File - Product comparison link for macbook air was clicked successfully!
+2022-07-14 18:32:29,371 [main] INFO Logger_File - Product comparison Chart was verified successfully!
+2022-07-14 18:32:30,089 [main] INFO Logger_File - The Scneario Product Comparison has PASSED
+2022-07-14 18:32:30,101 [main] INFO Logger_File - The Scenario Adding an item to Wish list, has been started!
+2022-07-14 18:32:34,378 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:32:35,514 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-14 18:32:37,245 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-14 18:32:38,347 [main] INFO Logger_File - Heart Icon for Sony VaIO was clicked successfully!
+2022-07-14 18:32:39,546 [main] INFO Logger_File - Login message was verified successfully!
+2022-07-14 18:32:39,877 [main] INFO Logger_File - The Scneario Adding an item to Wish list has PASSED
+2022-07-14 18:32:39,887 [main] INFO Logger_File - The Scenario Validate the price of MacBook Prop is 20000, has been started!
+2022-07-14 18:32:44,078 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:32:45,191 [main] INFO Logger_File - LapTop & NoteBook tab was clicked successfully!
+2022-07-14 18:32:46,811 [main] INFO Logger_File - Show all Laptop & NoteBook tab was clicked successfully!
+2022-07-14 18:32:49,071 [main] INFO Logger_File - MacBook pro item was clicked successfully!
+2022-07-14 18:32:50,136 [main] INFO Logger_File - Price of MacBook pro was verified successfully!
+2022-07-14 18:32:54,409 [main] INFO Logger_File - The Scneario Validate the price of MacBook Prop is 20000 has PASSED
+2022-07-14 18:32:54,424 [main] INFO Logger_File - The Scenario Register as an Affiliate user with Cheque Payment Method, has been started!
+2022-07-14 18:32:58,626 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:32:59,730 [main] INFO Logger_File - MyAccount Tab was clicked successfully!
+2022-07-14 18:33:01,213 [main] INFO Logger_File - Login link was clicked successfully!
+2022-07-14 18:33:03,543 [main] INFO Logger_File - Username and Password was entered successfully!
+2022-07-14 18:33:05,012 [main] INFO Logger_File - Login button was clicked successfully!
+2022-07-14 18:33:06,139 [main] INFO Logger_File - MyAccount DashBoard was verified successfully!
+2022-07-14 18:33:07,805 [main] INFO Logger_File - Affiliate link was clicked!
+2022-07-14 18:33:13,495 [main] INFO Logger_File - Affiliate account was filled-out successfully!
+2022-07-14 18:33:14,791 [main] INFO Logger_File - Check box was clicked!
+2022-07-14 18:33:16,499 [main] INFO Logger_File - Continue button was clicked successfully!
+2022-07-14 18:33:17,605 [main] INFO Logger_File - Success message was verified!
+2022-07-14 18:33:18,071 [main] INFO Logger_File - The Scneario Register as an Affiliate user with Cheque Payment Method has PASSED
+2022-07-14 18:33:18,084 [main] INFO Logger_File - The Scenario Edit your affiliate information from Paypal payment method to Bank Transfer, has been started!
+2022-07-14 18:33:22,339 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:33:23,443 [main] INFO Logger_File - MyAccount Tab was clicked successfully!
+2022-07-14 18:33:24,865 [main] INFO Logger_File - Login link was clicked successfully!
+2022-07-14 18:33:27,148 [main] INFO Logger_File - Username and Password was entered successfully!
+2022-07-14 18:33:28,643 [main] INFO Logger_File - Login button was clicked successfully!
+2022-07-14 18:33:29,747 [main] INFO Logger_File - MyAccount DashBoard was verified successfully!
+2022-07-14 18:33:31,282 [main] INFO Logger_File - Edit Your Affiliate Link was clicked successfully!
+2022-07-14 18:33:32,431 [main] INFO Logger_File - Bank Transfer radio button was clicked successfully!
+2022-07-14 18:33:38,260 [main] INFO Logger_File - Bank information was filled-out successfully!
+2022-07-14 18:33:40,001 [main] INFO Logger_File - Continue button was clicked successfully!
+2022-07-14 18:33:41,086 [main] INFO Logger_File - Success message was verified!
+2022-07-14 18:33:41,532 [main] INFO Logger_File - The Scneario Edit your affiliate information from Paypal payment method to Bank Transfer has PASSED
+2022-07-14 18:33:41,544 [main] INFO Logger_File - The Scenario Edit your account information, has been started!
+2022-07-14 18:33:45,380 [main] INFO Logger_File - Retail page was verified successfully!
+2022-07-14 18:33:46,477 [main] INFO Logger_File - MyAccount Tab was clicked successfully!
+2022-07-14 18:33:47,894 [main] INFO Logger_File - Login link was clicked successfully!
+2022-07-14 18:33:50,170 [main] INFO Logger_File - Username and Password was entered successfully!
+2022-07-14 18:33:52,035 [main] INFO Logger_File - Login button was clicked successfully!
+2022-07-14 18:33:53,190 [main] INFO Logger_File - MyAccount DashBoard was verified successfully!
+2022-07-14 18:33:55,305 [main] INFO Logger_File - Edit Your Account Information was clicked successfully!
+2022-07-14 18:34:00,183 [main] INFO Logger_File - Account information was verfied!
+2022-07-14 18:34:01,740 [main] INFO Logger_File - Continue button was clicked successfully!
+2022-07-14 18:34:01,786 [main] INFO Logger_File - Message was verified successfully!
+2022-07-14 18:34:02,297 [main] INFO Logger_File - The Scneario Edit your account information has PASSED
